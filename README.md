@@ -1,3 +1,3 @@
-# Strapi application
+# Strapi for didibao site
 
-A quick description of your strapi application
+Strapi with products for didibao project. 
